@@ -1,0 +1,9 @@
+[alias]
+        br = branch
+        co = checkout
+        cp = cherry-pick
+        rb = rebase
+        st = status
+[user]
+        email = <email>
+        name = Anna Borja
