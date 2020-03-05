@@ -1,0 +1,20 @@
+{
+  "editor.minimap.enabled": false,
+  "editor.fontSize": 14,
+  "prettier.requireConfig": true,
+  "editor.formatOnSave": true,
+  "files.autoSave": "onFocusChange",
+  "editor.tabSize": 2,
+  "extensions.autoUpdate": false,
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+  "window.title": "${activeEditorMedium}${separator}${rootName}",
+  "explorer.confirmDelete": false,
+  "typescript.updateImportsOnFileMove.enabled": "never",
+  "javascript.preferences.importModuleSpecifier": "non-relative",
+  "typescript.preferences.importModuleSpecifier": "non-relative",
+  "[typescript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "window.zoomLevel": 0
+}
