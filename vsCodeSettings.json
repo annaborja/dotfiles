@@ -1,22 +1,20 @@
 {
-  "prettier.requireConfig": true,
-  "editor.formatOnSave": true,
-  "typescript.updateImportsOnFileMove.enabled": "never",
-  "javascript.preferences.importModuleSpecifier": "non-relative",
-  "typescript.preferences.importModuleSpecifier": "non-relative",
-  "[typescript]": {
-      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
   },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.fontSize": 14,
+  "editor.formatOnSave": true,
+  "editor.minimap.enabled": false,
+  "editor.tabSize": 2,
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "files.autoSave": "onFocusChange",
+  "javascript.preferences.importModuleSpecifier": "non-relative",
   "javascript.updateImportsOnFileMove.enabled": "never",
-}
-
-{
-    "editor.fontSize": 14,
-    "editor.minimap.enabled": false,
-    "editor.tabSize": 2,
-    "explorer.confirmDelete": false,
-    "explorer.confirmDragAndDrop": false,
-    "files.autoSave": "onFocusChange",
-    "window.title": "${activeEditorMedium}${separator}${rootName}",
-    "workbench.editor.enablePreview": false
+  "prettier.requireConfig": true,
+  "typescript.preferences.importModuleSpecifier": "non-relative",
+  "typescript.updateImportsOnFileMove.enabled": "never",
+  "window.title": "${activeEditorMedium}${separator}${rootName}",
+  "workbench.editor.enablePreview": false
 }
