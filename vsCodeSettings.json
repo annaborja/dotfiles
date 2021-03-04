@@ -15,7 +15,7 @@
   "javascript.preferences.importModuleSpecifier": "non-relative",
   "javascript.updateImportsOnFileMove.enabled": "never",
   "prettier.requireConfig": true,
-  "typescript.autoClosingTags": false
+  "typescript.autoClosingTags": false,
   "typescript.preferences.importModuleSpecifier": "non-relative",
   "typescript.updateImportsOnFileMove.enabled": "never",
   "window.title": "${activeEditorMedium}${separator}${rootName}",
